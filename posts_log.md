@@ -15,3 +15,19 @@ Le PSG continue de construire son avenir dans les buts et mise sur la popularit�
 
 #PSG #Suzuki #Mercato #Ligue1 #ChampionsLeague
 Source : RMC Sport / Foot Mercato / Maxifoot
+
+
+## ⚽ 2026-08-11 22:24 UTC
+
+Excellentes actus trouvées ! Le sujet PSG-Aston Villa Supercoupe d'Europe est le plus notable et le plus imminent (match demain soir, 12 août), et il n'a pas encore été traité. C'est la meilleure actu à publier ce soir.
+
+---
+
+🏆 Supercoupe d'Europe : le PSG à Salzbourg pour un triplé historique !
+
+Le Paris Saint-Germain dispute demain soir, mercredi 12 août à 21h, la Supercoupe d'Europe face à Aston Villa, vainqueur de la Ligue Europa, à la Red Bull Arena de Salzbourg. Champion d'Europe en titre pour la deuxième année consécutive, le PSG peut devenir seulement le deuxième club de l'ère moderne à conserver ce trophée, après le Real Madrid en 2016 et 2017. Face à eux, les Villans d'Unai Emery, solides vainqueurs de Freiburg 3-0 en finale d'Europa League en mai dernier à Istanbul. Le groupe parisien, désormais au complet avec le retour des internationaux post-Mondial, a été officiellement dévoilé ce soir par le club.
+
+Luis Enrique veut lancer la saison par un premier trophée avant le Trophée des Champions face à Lens. Aston Villa, de son côté, rêve d'un doublé européen historique. Suspense garanti à Salzbourg !
+
+#PSG #SupercoupeEurope #UEFASuperCup #AstonVilla #LuisEnrique
+Source : Eurosport, PSG.fr, Al Jazeera
