@@ -31,3 +31,16 @@ Luis Enrique veut lancer la saison par un premier trophée avant le Trophée des
 
 #PSG #SupercoupeEurope #UEFASuperCup #AstonVilla #LuisEnrique
 Source : Eurosport, PSG.fr, Al Jazeera
+
+
+## 2026-08-12 06:04 UTC
+
+🚨 C'est OFFICIEL ! Facundo Medina tire sa révérence à Marseille.
+
+Après seulement une saison sous le maillot olympien, le défenseur central argentin de 27 ans s'engage avec le Bayer Leverkusen pour un transfert avoisinant les 25 millions d'euros (23M€ fixes + 2M€ de bonus). Vice-champion du monde avec l'Argentine, Medina rejoint ainsi l'un des cadors du football allemand pour renforcer une défense en quête de stabilité. Un beau chèque pour l'OM, qui devra toutefois trouver rapidement son successeur.
+
+💙🤍 Bonne chance, Facu !
+
+#OM #Medina #BayerLeverkusen #MercatoOM #Ligue1
+
+Source : Le Phocéen / Maxifoot / Les-Transferts.com
