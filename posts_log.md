@@ -109,3 +109,14 @@ Un départ qui fait du bruit au Vélodrome, en plein mercato estival ! 👋🔵�
 #OM #ManchesterCity #Rulli #Mercato #Ligue1
 
 Source : Manchester City (communiqué officiel) / OneFootball / beIN Sports
+
+
+## 2026-08-12 12:20 UTC
+
+🔴🔵➡️🟦 Le Racing pique un joyau au PSG !
+
+Ce mercredi matin, le RC Strasbourg a officialisé la signature d'Hermann Malonga, défenseur central de 18 ans formé au Paris Saint-Germain. Le jeune international U17 français s'engage pour 5 ans avec le club alsacien, jusqu'en juin 2031. Annoncé proche de Manchester City il y a encore quelques semaines, le Titi a finalement fait le choix de rester en Ligue 1 pour signer son tout premier contrat professionnel. Une belle prise pour Strasbourg, qui continue de miser sur les talents tricolores !
+
+#Strasbourg #PSG #Malonga #MercatoFoot #Ligue1
+
+Source : Foot Mercato / Canal Supporters / Le Parisien
