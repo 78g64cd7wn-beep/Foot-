@@ -72,3 +72,14 @@ Une terrible tuile pour le Blaugrana, déjà actif sur le mercato. 😔
 #Bardghji #FCBarcelone #Barca #Blessure #Mercato
 
 Source : FC Barcelona / Maxifoot / Footmercato
+
+
+## 2026-08-12 09:42 UTC
+
+🔴⚫ MAIGNAN, L'INCERTITUDE TOTALE !
+
+Alors que Mike Maignan n'a toujours pas repris l'entraînement à Milanello, la situation autour du gardien français s'emballe. Selon La Gazzetta dello Sport, une réunion cruciale est prévue ce jeudi entre le propriétaire Gerry Cardinale, Ruben Amorim et la direction milanaise pour statuer sur son avenir. Le club veut garder son capitaine, mais ne souhaitera pas le retenir contre son gré… Et pendant ce temps, Al Nassr observe. L'été sera décisif pour Magic Mike. 👀
+
+#Maignan #ACMilan #Mercato #Ligue1 #SerieA
+
+Source : Foot Mercato / Tuttosport
