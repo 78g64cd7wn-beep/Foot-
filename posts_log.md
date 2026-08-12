@@ -122,13 +122,13 @@ C'est officiel : Hermann Malonga, défenseur central de 18 ans formé au PSG, s'
 Source : Footmercato / Canal Supporters PSG
 
 
-## 2026-08-12 12:28 UTC
+## 2026-08-12 12:34 UTC
 
-🚨 LE PSG TIENT SON AILIER ! 🔵❤️
+🔴🔵 L'OL EST DE RETOUR EN EUROPE ! 
 
-Après l'échec du dossier Yan Diomandé parti au Real Madrid, le Paris Saint-Germain a trouvé sa solution offensive : Mika Godts (21 ans), le prodige belge de l'Ajax Amsterdam. Avec 17 buts et 12 passes décisives en Eredivisie la saison passée, le gaucher explose toutes les stats. Paris a déjà un accord avec le joueur (contrat 5 ans jusqu'en 2031) et vient de formuler une nouvelle offre de 55M€ aux Néerlandais, qui avaient refusé les 45M€ précédents. Ce transfert pourrait également officialiser le départ de Bradley Barcola à Liverpool. Le feuilleton touche à sa fin ! 💣
+Renversant ! Battu 2-1 à Prague à l'aller, l'Olympique Lyonnais a réalisé une remontée parfaite hier soir au Groupama Stadium. Avec un Sparta Prague réduit à 10 dès la 34e minute, les Gones se sont imposés 3-0 et décrochent leur billet pour les barrages de la Ligue des Champions. Nuamah, de retour de blessure, a ouvert le score, avant que les hommes de Paulo Fonseca ne scellent la qualification. Prochaine étape : Fenerbahçe, avec l'aller à Istanbul le 18 août. La C1 n'est plus qu'à 90 minutes... ⚡
 
-#PSG #MikaGodts #Mercato #Ajax #Paris
+#OL #Lyon #LigueDesChampions #UCL #Fonseca
 
 Source : Foot Mercato / Sky Sports Italia
 
