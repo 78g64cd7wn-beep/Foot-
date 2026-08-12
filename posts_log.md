@@ -94,3 +94,14 @@ Ousmane Diomandé quitte officiellement le Sporting CP pour rejoindre Nottingham
 #Diomandé #NottinghamForest #Mercato #PremierLeague #CôtedIvoire
 
 Source : Maxifoot / Footmercato / The Athletic
+
+
+## 2026-08-12 09:47 UTC
+
+🚨 Le feuilleton touche à sa fin !
+
+Ce mardi soir, un accord de principe a été trouvé entre le Paris Saint-Germain et le FC Barcelone pour le transfert de Ferran Torres. L'attaquant espagnol, unique buteur de la finale de la Coupe du monde 2026 contre l'Argentine, est sur le point de rejoindre la capitale française. Il disposerait déjà d'un accord personnel de cinq ans avec le club parisien, pour un montant total de 55 millions d'euros (50M€ fixes + 5M€ de bonus). Un renfort de poids pour Luis Enrique, la veille de la Supercoupe d'Europe face à Aston Villa ! 🔴🔵🇪🇸
+
+#PSG #FerranTorres #Mercato #Ligue1 #TransfertOfficiel
+
+Source : Foot Mercato / Le Parisien / Sport
