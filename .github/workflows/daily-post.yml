@@ -1,0 +1,74 @@
+name: Verification actu foot
+
+on:
+  schedule:
+    - cron: "0 * * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: daily-post
+  cancel-in-progress: false
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout du repo
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Installer les dependances
+        run: pip install Pillow
+
+      - name: Verifier actu et preparer post
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python generate_post.py
+
+      - name: Commit et push image
+        run: |
+          git config user.name "agent-foot"
+          git config user.email "bot@users.noreply.github.com"
+          git add posts_log.md images/ pending.json
+          if git diff --cached --quiet; then
+            echo "Rien à committer."
+          else
+            git commit -m "Post foot pret"
+            git fetch origin main
+            git push origin HEAD:main || {
+              echo "Push refusé, resolution en gardant notre version locale..."
+              git merge -X ours origin/main --no-edit
+              git push origin HEAD:main
+            }
+          fi
+
+      - name: Publier sur Instagram via Buffer
+        env:
+          BUFFER_ACCESS_TOKEN: ${{ secrets.BUFFER_ACCESS_TOKEN }}
+        run: python publish_to_buffer.py
+
+      - name: Commit final
+        run: |
+          git config user.name "agent-foot"
+          git config user.email "bot@users.noreply.github.com"
+          git add posted_topics.json
+          git rm --cached pending.json 2>/dev/null || true
+          rm -f pending.json
+          if git diff --cached --quiet; then
+            echo "Rien à committer."
+          else
+            git commit -m "Post foot publie"
+            git fetch origin main
+            git push origin HEAD:main || {
+              echo "Push refusé, resolution en gardant notre version locale..."
+              git merge -X ours origin/main --no-edit
+              git push origin HEAD:main
+            }
+          fi
