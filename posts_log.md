@@ -94,3 +94,16 @@ Ousmane Diomandé quitte officiellement le Sporting CP pour rejoindre Nottingham
 #Diomandé #NottinghamForest #Mercato #PremierLeague #CôtedIvoire
 
 Source : Maxifoot / Footmercato / The Athletic
+
+
+## 2026-08-12 09:47 UTC
+
+💥 OFFICIEL — Facundo Medina tire sa révérence à Marseille !
+
+Après seulement une saison sous le maillot phocéen, le défenseur central argentin de 27 ans rejoint le Bayer Leverkusen en Bundesliga. L'OM officialise le transfert pour environ 25 millions d'euros, une vente qui permet au club de renflouer ses caisses dans un contexte financier difficile. Brillant lors de la Coupe du monde 2026 avec l'Argentine, Medina s'est engagé pour 5 ans avec le club allemand, jusqu'en juin 2031. Un départ qui soulève des questions sur l'effectif de De Zerbi à quelques jours du début de la Ligue 1...
+
+🔵⚪ Bonne chance, Facu ! 🇦🇷
+
+#Medina #OM #Leverkusen #MercatOM #Bundesliga
+
+Source : L'Équipe / OM Officiel / Maxifoot
