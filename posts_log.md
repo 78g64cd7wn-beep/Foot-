@@ -212,3 +212,18 @@ C'est officiel ce soir : Xavi Hernández est le nouveau sélectionneur des Pays-
 #Xavi #PaysBas #Oranje #Football #Transfert
 
 Source : OneFootball / Foot Mercato / KNVB
+
+
+## 2026-08-12 23:22 UTC
+
+👑 LE PSG EST CHAMPION D'EUROPE... ENCORE !
+
+Ce soir à Salzbourg, le Paris Saint-Germain a remporté la Supercoupe de l'UEFA face à Aston Villa sur le score de 2-1 ! 🏆
+
+Kvaratskhelia ouvre le score à la 20e minute, Madjo égalise juste avant la pause (45'), mais c'est Désiré Doué qui assomme les Villans en seconde période (61') et offre un nouveau trophée européen aux Rouge-et-Bleu. 🔥
+
+Le PSG conserve sa Supercoupe et lance sa saison 2026-2027 de la plus belle des manières. Luis Enrique et ses hommes ont répondu présents quand il le fallait. Paris, au-dessus de tout. 💪
+
+#PSG #SupercoupeUEFA #Kvaratskhelia #Doué #Allez Paris
+
+Source : Foot Mercato / ESPN / UEFA.com
