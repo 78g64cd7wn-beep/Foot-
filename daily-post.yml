@@ -1,0 +1,52 @@
+name: Verification actu foot
+
+on:
+  schedule:
+    - cron: "0 * * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout du repo
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Installer les dependances
+        run: pip install Pillow
+
+      - name: Verifier actu et preparer post
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python generate_post.py
+
+      - name: Commit et push image
+        run: |
+          git config user.name "agent-foot-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add posts_log.md images/ pending.json 2>/dev/null || true
+          git commit -m "Post foot pret" || echo "Rien a committer"
+          git pull --rebase origin main
+          git push
+
+      - name: Publier sur Instagram via Buffer
+        env:
+          BUFFER_ACCESS_TOKEN: ${{ secrets.BUFFER_ACCESS_TOKEN }}
+        run: python publish_to_buffer.py
+
+      - name: Commit final
+        run: |
+          git add posted_topics.json
+          git rm --cached pending.json 2>/dev/null || true
+          rm -f pending.json
+          git commit -m "Post foot publie" || echo "Rien a committer"
+          git pull --rebase origin main
+          git push
