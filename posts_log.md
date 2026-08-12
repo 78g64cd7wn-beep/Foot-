@@ -44,3 +44,16 @@ Après seulement une saison sous le maillot olympien, le défenseur central arge
 #OM #Medina #BayerLeverkusen #MercatoOM #Ligue1
 
 Source : Le Phocéen / Maxifoot / Les-Transferts.com
+
+
+## 2026-08-12 09:34 UTC
+
+🔴🔵 LE FEUILLETON EST TERMINÉ !
+
+Ferran Torres va quitter le FC Barcelone pour rejoindre le Paris Saint-Germain. L'accord est trouvé entre le joueur et le club parisien, et le Barça a libéré l'attaquant espagnol pour qu'il se rende à Paris. L'international espagnol de 26 ans, champion du monde 2026, vient remplacer Gonçalo Ramos dans le secteur offensif du double champion d'Europe. La signature officielle est attendue dans les toutes prochaines heures ⏳
+
+Un renfort de classe mondiale pour Luis Enrique ! 🏆
+
+#PSG #FerranTorres #Mercato #Ligue1 #ParisStGermain
+
+Source : Foot Mercato / Le Parisien / TF1 Info
