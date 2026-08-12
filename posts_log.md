@@ -57,3 +57,18 @@ Comme si ça ne suffisait pas, Nice-Matin révèle que la direction monégasque 
 #Pogba #ASMonaco #Ligue1 #Mercato #Football
 
 Source : Sud Radio / Nice-Matin / 20 Minutes
+
+
+## 2026-08-12 09:41 UTC
+
+💔 COUP DUR POUR LE BARÇA !
+
+Roony Bardghji (20 ans) ne jouera pas de sitôt. Le FC Barcelone a officiellement confirmé ce mardi que l'ailier suédois souffre d'une rupture du ligament croisé antérieur du genou droit. Une opération est prévue dans les prochains jours.
+
+Absent au minimum 6 à 7 mois, Bardghji voit sa saison s'arrêter avant même d'avoir commencé. Pire encore : il ne pourra pas être prêté cet été comme il le souhaitait, et les clubs qui le ciblaient devront se tourner ailleurs.
+
+Une terrible tuile pour le Blaugrana, déjà actif sur le mercato. 😔
+
+#Bardghji #FCBarcelone #Barca #Blessure #Mercato
+
+Source : FC Barcelona / Maxifoot / Footmercato
