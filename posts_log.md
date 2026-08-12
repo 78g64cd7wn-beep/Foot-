@@ -131,3 +131,14 @@ Après l'échec du dossier Yan Diomandé parti au Real Madrid, le Paris Saint-Ge
 #PSG #MikaGodts #Mercato #Ajax #Paris
 
 Source : Foot Mercato / Sky Sports Italia
+
+
+## 2026-08-12 12:35 UTC
+
+💣 Il veut l'OM, et il le fait savoir !
+
+Jean-Clair Todibo (26 ans) ne lésine pas sur les moyens pour forcer son départ de West Ham vers Marseille. Le défenseur franco-guyanais a refusé de remplir ses obligations médiatiques avec les Hammers et a même snobé le match de League Cup face à Portsmouth pour précipiter son transfert. West Ham, relégué en Championship, exige un transfert sec là où l'OM pousse pour un prêt avec option d'achat. Le bras de fer s'intensifie… mais le joueur, lui, a déjà choisi son camp 🔵⚪️
+
+#OM #Todibo #MercatoOM #Ligue1 #FootFrancais
+
+Source : Foot Mercato / But! Football Club / MercatoLive
