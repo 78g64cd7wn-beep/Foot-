@@ -44,3 +44,14 @@ Après seulement une saison sous le maillot olympien, le défenseur central arge
 #OM #Medina #BayerLeverkusen #MercatoOM #Ligue1
 
 Source : Le Phocéen / Maxifoot / Les-Transferts.com
+
+
+## 2026-08-12 09:36 UTC
+
+🔵⚪ Le PSG perd encore un titi !
+
+Hermann Malonga, défenseur central de 18 ans formé au Paris Saint-Germain, ne rejoindra pas Manchester City comme annoncé. Le jeune international U17 français a finalement choisi de rester en France et de signer son tout premier contrat professionnel avec le RC Strasbourg — 5 ans de contrat pour ce grand espoir de la génération 2008. Un retournement de situation spectaculaire qui illustre la fuite des talents au centre de formation parisien cet été. L'exode continue au PSG, mais les pépites restent en Ligue 1 !
+
+#PSG #Strasbourg #Malonga #MercatoLigue1 #FootFrancais
+
+Source : Le Parisien / Foot Mercato / Canal Supporters
