@@ -131,3 +131,18 @@ Renversant ! Battu 2-1 à Prague à l'aller, l'Olympique Lyonnais a réalisé un
 #OL #Lyon #LigueDesChampions #UCL #Fonseca
 
 Source : France 24 / Foot Mercato
+
+
+## 2026-08-12 12:36 UTC
+
+🔴🟡 RC LENS FRAPPE FORT CE MATIN !
+
+Le RC Lens officialise ce mercredi l'arrivée en prêt de Franjo Ivanovic, l'attaquant croate de 22 ans en provenance de Benfica. Un joli coup du directeur sportif Jean-Louis Leca, qui a réussi à souffler le buteur à la Lazio Rome au dernier moment !
+
+Transféré 22,5 millions d'euros à Lisbonne l'été dernier, Ivanovic n'avait pas trouvé sa place à Benfica face à la concurrence. Il débarque à Bollaert pour jouer... la Ligue des Champions ! Déjà 9 sélections avec la Croatie, 21 buts avec l'Union Saint-Gilloise : le talent est là. Maintenant, place à la confirmation.
+
+💥 Tous les chemins mènent à... Lens !
+
+#RCLens #Ivanovic #MercatoL1 #Ligue1 #LigueDesChampions
+
+Source : Eurosport / Lensois.com / Footmercato
