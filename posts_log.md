@@ -179,3 +179,14 @@ Après une belle relance en prêt au Havre la saison dernière (15 matchs de Lig
 #GournaDouath #HullCity #PremierLeague #Mercato #Ligue1
 
 Source : Foot Mercato
+
+
+## 2026-08-12 12:57 UTC
+
+🔴🔵 ÇA BRÛLE AU PSG ! 
+
+Ferran Torres ne s'est pas présenté à l'entraînement du Barça ce mercredi matin. Le FC Barcelone l'a officiellement dispensé pour lui permettre de finaliser son transfert vers Paris. Le PSG a transmis une offre officielle de 50 millions d'euros au club catalan, et les deux parties espèrent boucler l'affaire avant la fin de semaine. Champion du monde 2026 avec l'Espagne, l'attaquant de 26 ans est attendu à Paris dans les prochaines heures. Luis Enrique tient son nouveau numéro 9. 🔥
+
+#PSG #FerranTorres #Mercato #Ligue1 #TransferNews
+
+Source : TF1Info / Maxifoot / Marca
