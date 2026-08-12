@@ -49,7 +49,6 @@ def graphql(query, variables=None):
         return json.loads(response.read().decode("utf-8"))
 
 
-# --- FIX : "organizations" est un champ de "account", pas une query racine ---
 org_result = graphql("query { account { organizations { id } } }")
 orgs = org_result.get("data", {}).get("account", {}).get("organizations", [])
 if not orgs:
@@ -95,6 +94,12 @@ variables = {
         "schedulingType": "automatic",
         "mode": "addToQueue",
         "assets": [{"image": {"url": image_url}}],
+        "metadata": {
+            "instagram": {
+                "type": "post",
+                "shouldShareToFeed": True,
+            }
+        },
     }
 }
 
