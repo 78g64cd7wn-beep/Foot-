@@ -131,3 +131,16 @@ Renversant ! Battu 2-1 à Prague à l'aller, l'Olympique Lyonnais a réalisé un
 #OL #Lyon #LigueDesChampions #UCL #Fonseca
 
 Source : France 24 / Foot Mercato
+
+
+## 2026-08-12 12:50 UTC
+
+🧤 UN NOUVEAU GARDIEN EN ALSACE !
+
+Le Racing Club de Strasbourg vient d'officialiser l'arrivée de Filip Jørgensen, 24 ans, prêté par Chelsea FC pour toute la saison 2026-2027. L'international danois, vainqueur de la Ligue Conférence avec les Blues, débarque pour occuper les cages alsaciennes après une saison dans l'ombre de Sanchez à Stamford Bridge. Incroyable : c'est la 3e saison de suite que Strasbourg récupère un gardien de Chelsea via le partenariat BlueCo ! 🔵⚪
+
+Le Rohr a trouvé son dernier rempart. 🦅
+
+#RCSA #Strasbourg #Jorgensen #Chelsea #Ligue1
+
+Source : RC Strasbourg Alsace Officiel / Footmercato
