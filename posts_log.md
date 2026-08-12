@@ -146,3 +146,14 @@ Transféré 22,5 millions d'euros à Lisbonne l'été dernier, Ivanovic n'avait 
 #RCLens #Ivanovic #MercatoL1 #Ligue1 #LigueDesChampions
 
 Source : Eurosport / Lensois.com / Footmercato
+
+
+## 2026-08-12 12:49 UTC
+
+🚨 FIN DE L'AVENTURE SALZBOURG !
+
+Lucas Gourna-Douath (23 ans) s'apprête à quitter définitivement le RB Salzbourg pour rejoindre Hull City en Premier League. Formé à l'AS Saint-Étienne, vendu 15M€ en 2022, le milieu défensif n'a jamais réussi à s'imposer en Autriche, enchaînant les prêts à la Roma puis au Havre. Cette fois, c'est un départ définitif avec un contrat de 4 ans à la clé. Un nouveau défi outre-Manche pour le tricolore, qui veut enfin lancer sa carrière au plus haut niveau. 🏴󠁧󠁢󠁥󠁮󠁧󠁿
+
+#GournaDouath #HullCity #PremierLeague #Mercato #FootballFrançais
+
+Source : Foot Mercato
