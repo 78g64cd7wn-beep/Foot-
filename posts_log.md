@@ -120,3 +120,14 @@ C'est officiel : Hermann Malonga, défenseur central de 18 ans formé au PSG, s'
 #Malonga #RCStrasbourg #PSG #MercatoFoot #Ligue1
 
 Source : Footmercato / Canal Supporters PSG
+
+
+## 2026-08-12 12:28 UTC
+
+🚨 LE PSG TIENT SON AILIER ! 🔵❤️
+
+Après l'échec du dossier Yan Diomandé parti au Real Madrid, le Paris Saint-Germain a trouvé sa solution offensive : Mika Godts (21 ans), le prodige belge de l'Ajax Amsterdam. Avec 17 buts et 12 passes décisives en Eredivisie la saison passée, le gaucher explose toutes les stats. Paris a déjà un accord avec le joueur (contrat 5 ans jusqu'en 2031) et vient de formuler une nouvelle offre de 55M€ aux Néerlandais, qui avaient refusé les 45M€ précédents. Ce transfert pourrait également officialiser le départ de Bradley Barcola à Liverpool. Le feuilleton touche à sa fin ! 💣
+
+#PSG #MikaGodts #Mercato #Ajax #Paris
+
+Source : Foot Mercato / Sky Sports Italia
