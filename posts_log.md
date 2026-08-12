@@ -157,3 +157,14 @@ Lucas Gourna-Douath (23 ans) s'apprête à quitter définitivement le RB Salzbou
 #GournaDouath #HullCity #PremierLeague #Mercato #FootballFrançais
 
 Source : Foot Mercato
+
+
+## 2026-08-12 12:51 UTC
+
+🔴💛 LOYALTY OVER MONEY !
+
+Ismaëlo Ganiou, 21 ans, patron de la défense du RC Lens, a dit NON à l'AC Milan et à Crystal Palace pour rester Sang et Or. L'international Espoir a prolongé son contrat jusqu'en 2030, officialisé devant les supporters de Bollaert lors du match amical face à Sunderland. L'AC Milan, poussé par Ruben Amorim, avait formulé une offre proche de 50 M€. Peine perdue. Ganiou a choisi la Ligue des Champions avec Lens plutôt que la gloire italienne. Un choix fort. Une histoire d'amour qui continue. ❤️
+
+#RCLens #Ganiou #Mercato #Ligue1 #Ganiou2030
+
+Source : L'Équipe / But! Football Club / Footmercato
