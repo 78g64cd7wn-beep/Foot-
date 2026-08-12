@@ -168,3 +168,14 @@ Ismaëlo Ganiou, 21 ans, patron de la défense du RC Lens, a dit NON à l'AC Mil
 #RCLens #Ganiou #Mercato #Ligue1 #Ganiou2030
 
 Source : L'Équipe / But! Football Club / Footmercato
+
+
+## 2026-08-12 12:53 UTC
+
+🚨 OFFICIEL (OU QUASI) | Direction l'Angleterre pour Gourna-Douath !
+
+Après une belle relance en prêt au Havre la saison dernière (15 matchs de Ligue 1), Lucas Gourna-Douath (23 ans) s'apprête à tourner définitivement la page de Salzbourg. Le milieu défensif formé à l'ASSE et vendu 15M€ en Autriche en 2022 devrait s'engager pour 4 saisons avec Hull City, promu en Premier League. Un nouveau défi XXL pour le Franco-Centrafricain, qui a su se relancer en Normandie avant de viser les sommets outre-Manche. 🏴󠁧󠁢󠁥󠁮󠁧󠁿⚽
+
+#GournaDouath #HullCity #PremierLeague #Mercato #Ligue1
+
+Source : Foot Mercato
