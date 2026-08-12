@@ -44,3 +44,16 @@ Après seulement une saison sous le maillot olympien, le défenseur central arge
 #OM #Medina #BayerLeverkusen #MercatoOM #Ligue1
 
 Source : Le Phocéen / Maxifoot / Les-Transferts.com
+
+
+## 2026-08-12 09:39 UTC
+
+💔 La malédiction continue pour Paul Pogba.
+
+Alors que l'AS Monaco entamait son stage de préparation à St George's Park en Angleterre, le milieu français s'est effondré dès le premier entraînement collectif, victime d'une douleur à la cuisse gauche. Le staff médical a dû intervenir en urgence pour le sortir du terrain en boitant.
+
+Comme si ça ne suffisait pas, Nice-Matin révèle que la direction monégasque songerait déjà à mettre fin à son contrat avant la fin du mercato. À 33 ans et avec seulement 6 apparitions la saison dernière, la Pioche est à la croisée des chemins. Son aventure sur le Rocher est-elle déjà terminée ? 😔
+
+#Pogba #ASMonaco #Ligue1 #Mercato #Football
+
+Source : Sud Radio / Nice-Matin / 20 Minutes
