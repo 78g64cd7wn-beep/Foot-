@@ -16,7 +16,12 @@ if not API_KEY:
 TOPICS_FILE = "posted_topics.json"
 LOG_FILE = "posts_log.md"
 PENDING_FILE = "pending.json"
-IMAGE_PATH = "images/latest_post.png"
+
+# Nom de fichier unique par post : evite que Buffer/Instagram mettent en
+# cache une ancienne image servie a la meme URL.
+IMAGE_FILENAME = f"post_{datetime.now(timezone.utc).strftime('%Y%m%d_%H%M%S')}.png"
+IMAGE_PATH = f"images/{IMAGE_FILENAME}"
+
 SKIP_MARKER = "AUCUNE_ACTU"
 
 SYSTEM_PROMPT = f"""Tu es un agent d'actualite football, specialise dans le football francais et europeen.
@@ -109,8 +114,7 @@ os.makedirs("fonts", exist_ok=True)
 
 
 # ---------------------------------------------------------------------------
-# Polices : on telecharge une police impactante (style "media sportif") une
-# seule fois, avec repli sur DejaVu si le telechargement echoue.
+# Polices
 # ---------------------------------------------------------------------------
 FONT_TITLE_PATH = "fonts/Anton-Regular.ttf"
 FONT_BODY_PATH = "fonts/Oswald-Bold.ttf"
@@ -146,18 +150,15 @@ def load_font(path, fallback, size):
 # ---------------------------------------------------------------------------
 W, H = 1080, 1080
 
-# Couleurs
 COLOR_TOP = (12, 18, 16)
 COLOR_BOTTOM = (4, 6, 6)
-ACCENT = (64, 214, 128)      # vert vif
-ACCENT_DARK = (28, 96, 60)
+ACCENT = (64, 214, 128)
 WHITE = (245, 245, 245)
 GREY = (150, 155, 152)
 
 img = Image.new("RGB", (W, H), COLOR_TOP)
 draw = ImageDraw.Draw(img)
 
-# --- Fond en degrade vertical ---------------------------------------------
 for y in range(H):
     t = y / H
     r = int(COLOR_TOP[0] + (COLOR_BOTTOM[0] - COLOR_TOP[0]) * t)
@@ -165,7 +166,6 @@ for y in range(H):
     b = int(COLOR_TOP[2] + (COLOR_BOTTOM[2] - COLOR_TOP[2]) * t)
     draw.line([(0, y), (W, y)], fill=(r, g, b))
 
-# --- Cercle decoratif discret en fond (texture) ----------------------------
 overlay = Image.new("RGBA", (W, H), (0, 0, 0, 0))
 odraw = ImageDraw.Draw(overlay)
 odraw.ellipse([W - 480, -280, W + 280, 480], outline=(255, 255, 255, 14), width=26)
@@ -173,7 +173,6 @@ odraw.ellipse([-260, H - 460, 300, H + 280], outline=(255, 255, 255, 10), width=
 img = Image.alpha_composite(img.convert("RGBA"), overlay).convert("RGB")
 draw = ImageDraw.Draw(img)
 
-# --- Barre d'accent tout en haut -------------------------------------------
 draw.rectangle([(0, 0), (W, 10)], fill=ACCENT)
 
 # --- Badge categorie ---------------------------------------------------
@@ -196,8 +195,13 @@ draw.text(
     anchor="lm",
 )
 
+# --- Pied de page : positions fixes calculees D'ABORD ----------------------
+FOOTER_LINE_Y = H - 118      # ligne de separation
+FOOTER_TEXT_Y = H - 92       # texte source/date
+TITLE_BOTTOM_LIMIT = FOOTER_LINE_Y - 46   # marge de securite au-dessus du pied de page
+TITLE_TOP_LIMIT = 220        # sous le badge
 
-# --- Titre : on ajuste la taille automatiquement pour que ca tienne -------
+
 def wrap_by_pixels(text, font, max_width):
     words = text.split()
     lines, current = [], ""
@@ -215,41 +219,54 @@ def wrap_by_pixels(text, font, max_width):
 
 
 MAX_TEXT_WIDTH = W - 140
+MAX_BLOCK_HEIGHT = TITLE_BOTTOM_LIMIT - TITLE_TOP_LIMIT
 title_text = title.upper()
 
-for size in range(120, 55, -4):
+best = None
+for size in range(120, 39, -3):
     font_title = load_font(FONT_TITLE_PATH, FALLBACK_BOLD, size)
     lines = wrap_by_pixels(title_text, font_title, MAX_TEXT_WIDTH)
-    line_height = int(size * 1.08)
+    line_height = int(size * 1.12)
     total_height = line_height * len(lines)
     widest = max(draw.textbbox((0, 0), l, font=font_title)[2] for l in lines)
-    if len(lines) <= 5 and total_height <= 520 and widest <= MAX_TEXT_WIDTH:
+    if len(lines) <= 4 and total_height <= MAX_BLOCK_HEIGHT and widest <= MAX_TEXT_WIDTH:
+        best = (font_title, lines, line_height, total_height)
         break
 
-# Position verticale : bloc titre centre sur le tiers inferieur du visuel
-block_top = H - 420
+if best is None:
+    size = 40
+    font_title = load_font(FONT_TITLE_PATH, FALLBACK_BOLD, size)
+    lines = wrap_by_pixels(title_text, font_title, MAX_TEXT_WIDTH)[:4]
+    line_height = int(size * 1.12)
+    total_height = line_height * len(lines)
+    best = (font_title, lines, line_height, total_height)
+
+font_title, lines, line_height, total_height = best
+
+# --- Titre ancre par le BAS : jamais de chevauchement avec le pied de page -
+block_bottom = TITLE_BOTTOM_LIMIT
+block_top = block_bottom - total_height
 y = block_top
 for line in lines:
     draw.text((70, y), line, font=font_title, fill=WHITE)
     y += line_height
 
 # --- Trait d'accent sous le titre ------------------------------------------
-underline_y = y + 18
+underline_y = block_bottom + 8
 draw.rectangle([(70, underline_y), (70 + 140, underline_y + 8)], fill=ACCENT)
 
-# --- Pied de page : source + date, separes par une ligne fine -------------
-footer_y = H - 92
-draw.line([(70, footer_y - 26), (W - 70, footer_y - 26)], fill=(60, 66, 63), width=2)
+# --- Pied de page : ligne + source + date -----------------------------
+draw.line([(70, FOOTER_LINE_Y), (W - 70, FOOTER_LINE_Y)], fill=(60, 66, 63), width=2)
 
 font_footer = load_font(FONT_LIGHT_PATH, FALLBACK_REG, 32)
 date_str = datetime.now(timezone.utc).strftime("%d/%m/%Y")
 
 if source:
-    draw.text((70, footer_y), source.upper(), font=font_footer, fill=GREY, anchor="lm")
+    draw.text((70, FOOTER_TEXT_Y), source.upper(), font=font_footer, fill=GREY, anchor="lm")
 
 date_bbox = draw.textbbox((0, 0), date_str, font=font_footer)
 date_w = date_bbox[2] - date_bbox[0]
-draw.text((W - 70 - date_w, footer_y), date_str, font=font_footer, fill=GREY, anchor="lm")
+draw.text((W - 70 - date_w, FOOTER_TEXT_Y), date_str, font=font_footer, fill=GREY, anchor="lm")
 
 img.save(IMAGE_PATH)
 
