@@ -201,3 +201,14 @@ Source : TF1Info / Maxifoot / Marca
 #MegnanPave #Montpellier #Ligue2 #PépitesFrançaises #Mercato
 
 Source : Maxifoot / AllezPaillade / LFP
+
+
+## 2026-08-12 20:06 UTC
+
+🇳🇱 UNE NOUVELLE ÈRE POUR LES ORANJE !
+
+C'est officiel ce soir : Xavi Hernández est le nouveau sélectionneur des Pays-Bas. La fédération néerlandaise (KNVB) vient de confirmer la nomination de l'ancien entraîneur du FC Barcelone jusqu'en 2030. Il succède à Ronald Koeman, démissionnaire après l'élimination des Pays-Bas face au Maroc aux tirs au but lors du Mondial 2026. Xavi devient ainsi le premier entraîneur étranger à prendre les rênes des Oranje depuis 1978. Patrick Kluivert intégrera son staff en tant qu'adjoint. Un défi immense pour le technicien catalan !
+
+#Xavi #PaysBas #Oranje #Football #Transfert
+
+Source : OneFootball / Foot Mercato / KNVB
