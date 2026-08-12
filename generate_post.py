@@ -102,39 +102,154 @@ if not fields["CAPTION"] or not fields["TOPIC_ID"]:
 
 caption = fields["CAPTION"].replace("\\n", "\n")
 title = fields["TITLE"] or "Actu Foot"
+source = fields["SOURCE"] or ""
 
 os.makedirs("images", exist_ok=True)
+os.makedirs("fonts", exist_ok=True)
 
+
+# ---------------------------------------------------------------------------
+# Polices : on telecharge une police impactante (style "media sportif") une
+# seule fois, avec repli sur DejaVu si le telechargement echoue.
+# ---------------------------------------------------------------------------
+FONT_TITLE_PATH = "fonts/Anton-Regular.ttf"
+FONT_BODY_PATH = "fonts/Oswald-Bold.ttf"
+FONT_LIGHT_PATH = "fonts/Oswald-Regular.ttf"
+
+FONT_SOURCES = {
+    FONT_TITLE_PATH: "https://github.com/google/fonts/raw/main/ofl/anton/Anton-Regular.ttf",
+    FONT_BODY_PATH: "https://github.com/google/fonts/raw/main/ofl/oswald/static/Oswald-Bold.ttf",
+    FONT_LIGHT_PATH: "https://github.com/google/fonts/raw/main/ofl/oswald/static/Oswald-Regular.ttf",
+}
+
+for path, url in FONT_SOURCES.items():
+    if not os.path.exists(path):
+        try:
+            urllib.request.urlretrieve(url, path)
+        except Exception as e:
+            print(f"Avertissement : impossible de telecharger {url} ({e})")
+
+FALLBACK_BOLD = "/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf"
+FALLBACK_REG = "/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf"
+
+def load_font(path, fallback, size):
+    try:
+        if os.path.exists(path):
+            return ImageFont.truetype(path, size)
+        return ImageFont.truetype(fallback, size)
+    except Exception:
+        return ImageFont.load_default()
+
+
+# ---------------------------------------------------------------------------
+# Dessin de l'image
+# ---------------------------------------------------------------------------
 W, H = 1080, 1080
-bg_color = (14, 22, 18)
-accent_color = (60, 200, 120)
 
-img = Image.new("RGB", (W, H), bg_color)
+# Couleurs
+COLOR_TOP = (12, 18, 16)
+COLOR_BOTTOM = (4, 6, 6)
+ACCENT = (64, 214, 128)      # vert vif
+ACCENT_DARK = (28, 96, 60)
+WHITE = (245, 245, 245)
+GREY = (150, 155, 152)
+
+img = Image.new("RGB", (W, H), COLOR_TOP)
 draw = ImageDraw.Draw(img)
 
-font_path_bold = "/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf"
-font_path_regular = "/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf"
+# --- Fond en degrade vertical ---------------------------------------------
+for y in range(H):
+    t = y / H
+    r = int(COLOR_TOP[0] + (COLOR_BOTTOM[0] - COLOR_TOP[0]) * t)
+    g = int(COLOR_TOP[1] + (COLOR_BOTTOM[1] - COLOR_TOP[1]) * t)
+    b = int(COLOR_TOP[2] + (COLOR_BOTTOM[2] - COLOR_TOP[2]) * t)
+    draw.line([(0, y), (W, y)], fill=(r, g, b))
 
-try:
-    font_title = ImageFont.truetype(font_path_bold, 72)
-    font_small = ImageFont.truetype(font_path_regular, 36)
-except Exception:
-    font_title = ImageFont.load_default()
-    font_small = ImageFont.load_default()
+# --- Cercle decoratif discret en fond (texture) ----------------------------
+overlay = Image.new("RGBA", (W, H), (0, 0, 0, 0))
+odraw = ImageDraw.Draw(overlay)
+odraw.ellipse([W - 480, -280, W + 280, 480], outline=(255, 255, 255, 14), width=26)
+odraw.ellipse([-260, H - 460, 300, H + 280], outline=(255, 255, 255, 10), width=18)
+img = Image.alpha_composite(img.convert("RGBA"), overlay).convert("RGB")
+draw = ImageDraw.Draw(img)
 
-draw.rectangle([(0, 0), (W, 12)], fill=accent_color)
-draw.text((60, 60), "ACTU FOOT", font=font_small, fill=accent_color)
+# --- Barre d'accent tout en haut -------------------------------------------
+draw.rectangle([(0, 0), (W, 10)], fill=ACCENT)
 
-wrapped = textwrap.wrap(title.upper(), width=16)
-y = H / 2 - (len(wrapped) * 90) / 2
-for line in wrapped:
-    bbox = draw.textbbox((0, 0), line, font=font_title)
-    line_w = bbox[2] - bbox[0]
-    draw.text(((W - line_w) / 2, y), line, font=font_title, fill="white")
-    y += 90
+# --- Badge categorie ---------------------------------------------------
+badge_font = load_font(FONT_BODY_PATH, FALLBACK_BOLD, 30)
+badge_text = "ACTU FOOT"
+bbox = draw.textbbox((0, 0), badge_text, font=badge_font)
+badge_w = (bbox[2] - bbox[0]) + 56
+badge_h = 56
+badge_x, badge_y = 60, 70
+draw.rounded_rectangle(
+    [badge_x, badge_y, badge_x + badge_w, badge_y + badge_h],
+    radius=28,
+    fill=ACCENT,
+)
+draw.text(
+    (badge_x + 28, badge_y + badge_h / 2),
+    badge_text,
+    font=badge_font,
+    fill=(6, 10, 8),
+    anchor="lm",
+)
 
+
+# --- Titre : on ajuste la taille automatiquement pour que ca tienne -------
+def wrap_by_pixels(text, font, max_width):
+    words = text.split()
+    lines, current = [], ""
+    for word in words:
+        trial = f"{current} {word}".strip()
+        w = draw.textbbox((0, 0), trial, font=font)[2]
+        if w <= max_width or not current:
+            current = trial
+        else:
+            lines.append(current)
+            current = word
+    if current:
+        lines.append(current)
+    return lines
+
+
+MAX_TEXT_WIDTH = W - 140
+title_text = title.upper()
+
+for size in range(120, 55, -4):
+    font_title = load_font(FONT_TITLE_PATH, FALLBACK_BOLD, size)
+    lines = wrap_by_pixels(title_text, font_title, MAX_TEXT_WIDTH)
+    line_height = int(size * 1.08)
+    total_height = line_height * len(lines)
+    widest = max(draw.textbbox((0, 0), l, font=font_title)[2] for l in lines)
+    if len(lines) <= 5 and total_height <= 520 and widest <= MAX_TEXT_WIDTH:
+        break
+
+# Position verticale : bloc titre centre sur le tiers inferieur du visuel
+block_top = H - 420
+y = block_top
+for line in lines:
+    draw.text((70, y), line, font=font_title, fill=WHITE)
+    y += line_height
+
+# --- Trait d'accent sous le titre ------------------------------------------
+underline_y = y + 18
+draw.rectangle([(70, underline_y), (70 + 140, underline_y + 8)], fill=ACCENT)
+
+# --- Pied de page : source + date, separes par une ligne fine -------------
+footer_y = H - 92
+draw.line([(70, footer_y - 26), (W - 70, footer_y - 26)], fill=(60, 66, 63), width=2)
+
+font_footer = load_font(FONT_LIGHT_PATH, FALLBACK_REG, 32)
 date_str = datetime.now(timezone.utc).strftime("%d/%m/%Y")
-draw.text((60, H - 90), date_str, font=font_small, fill=(150, 150, 150))
+
+if source:
+    draw.text((70, footer_y), source.upper(), font=font_footer, fill=GREY, anchor="lm")
+
+date_bbox = draw.textbbox((0, 0), date_str, font=font_footer)
+date_w = date_bbox[2] - date_bbox[0]
+draw.text((W - 70 - date_w, footer_y), date_str, font=font_footer, fill=GREY, anchor="lm")
 
 img.save(IMAGE_PATH)
 
