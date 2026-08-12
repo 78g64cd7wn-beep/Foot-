@@ -72,3 +72,14 @@ Une terrible tuile pour le Blaugrana, déjà actif sur le mercato. 😔
 #Bardghji #FCBarcelone #Barca #Blessure #Mercato
 
 Source : FC Barcelona / Maxifoot / Footmercato
+
+
+## 2026-08-12 09:42 UTC
+
+🔴🔵 C'EST OFFICIEL ! Evann Guessand retourne à Crystal Palace !
+
+Aston Villa a confirmé ce mercredi le prêt avec obligation d'achat conditionnelle de l'attaquant ivoirien en direction de Crystal Palace. L'ancien joueur de l'OGC Nice, révélé en Ligue 1 avec 12 buts en 2024-25, retrouve le club avec lequel il avait déjà évolué en janvier dernier et remporté la Ligue Conférence. À 25 ans, Guessand cherche du temps de jeu pour s'imposer définitivement en Premier League et viser une place en sélection ivoirienne pour la prochaine Coupe du Monde. 🔥
+
+#Guessand #CrystalPalace #AstonVilla #PremierLeague #Mercato
+
+Source : Aston Villa FC (officiel) / Foot Mercato
