@@ -133,15 +133,15 @@ Renversant ! Battu 2-1 à Prague à l'aller, l'Olympique Lyonnais a réalisé un
 Source : France 24 / Foot Mercato
 
 
-## 2026-08-12 12:36 UTC
+## 2026-08-12 12:50 UTC
 
-🔴🟡 RC LENS FRAPPE FORT CE MATIN !
+🧤 UN NOUVEAU GARDIEN EN ALSACE !
 
-Le RC Lens officialise ce mercredi l'arrivée en prêt de Franjo Ivanovic, l'attaquant croate de 22 ans en provenance de Benfica. Un joli coup du directeur sportif Jean-Louis Leca, qui a réussi à souffler le buteur à la Lazio Rome au dernier moment !
+Le Racing Club de Strasbourg vient d'officialiser l'arrivée de Filip Jørgensen, 24 ans, prêté par Chelsea FC pour toute la saison 2026-2027. L'international danois, vainqueur de la Ligue Conférence avec les Blues, débarque pour occuper les cages alsaciennes après une saison dans l'ombre de Sanchez à Stamford Bridge. Incroyable : c'est la 3e saison de suite que Strasbourg récupère un gardien de Chelsea via le partenariat BlueCo ! 🔵⚪
 
-Transféré 22,5 millions d'euros à Lisbonne l'été dernier, Ivanovic n'avait pas trouvé sa place à Benfica face à la concurrence. Il débarque à Bollaert pour jouer... la Ligue des Champions ! Déjà 9 sélections avec la Croatie, 21 buts avec l'Union Saint-Gilloise : le talent est là. Maintenant, place à la confirmation.
+Le Rohr a trouvé son dernier rempart. 🦅
 
-💥 Tous les chemins mènent à... Lens !
+#RCSA #Strasbourg #Jorgensen #Chelsea #Ligue1
 
 #RCLens #Ivanovic #MercatoL1 #Ligue1 #LigueDesChampions
 
