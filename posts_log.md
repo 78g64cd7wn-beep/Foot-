@@ -190,3 +190,14 @@ Ferran Torres ne s'est pas présenté à l'entraînement du Barça ce mercredi m
 #PSG #FerranTorres #Mercato #Ligue1 #TransferNews
 
 Source : TF1Info / Maxifoot / Marca
+
+
+## 2026-08-12 16:12 UTC
+
+🔥 LE CRACK QUI FAIT TREMBLER LA FRANCE 🔥
+
+À seulement 16 ans et 154 jours, Laciné Megnan-Pavé vient d'entrer dans les livres d'histoire. Entré en jeu lors de la 1ère journée de Ligue 2 face à Dijon (1-1), l'attaquant de Montpellier a inscrit son premier but professionnel… 5 minutes après son entrée ! La LFP a officiellement validé le but ce mardi, faisant de lui le plus jeune buteur de l'histoire du MHSC, mais aussi le premier joueur né en 2010 à scorer dans un top 5 européen ou sa D2. Une entrée en matière XXL pour une pépite déjà dans le viseur du PSG, Arsenal, Chelsea et bien d'autres. La suite s'annonce électrisante. 👀
+
+#MegnanPave #Montpellier #Ligue2 #PépitesFrançaises #Mercato
+
+Source : Maxifoot / AllezPaillade / LFP
