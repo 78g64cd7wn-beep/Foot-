@@ -120,3 +120,14 @@ C'est officiel : Hermann Malonga, défenseur central de 18 ans formé au PSG, s'
 #Malonga #RCStrasbourg #PSG #MercatoFoot #Ligue1
 
 Source : Footmercato / Canal Supporters PSG
+
+
+## 2026-08-12 12:34 UTC
+
+🔴🔵 L'OL EST DE RETOUR EN EUROPE ! 
+
+Renversant ! Battu 2-1 à Prague à l'aller, l'Olympique Lyonnais a réalisé une remontée parfaite hier soir au Groupama Stadium. Avec un Sparta Prague réduit à 10 dès la 34e minute, les Gones se sont imposés 3-0 et décrochent leur billet pour les barrages de la Ligue des Champions. Nuamah, de retour de blessure, a ouvert le score, avant que les hommes de Paulo Fonseca ne scellent la qualification. Prochaine étape : Fenerbahçe, avec l'aller à Istanbul le 18 août. La C1 n'est plus qu'à 90 minutes... ⚡
+
+#OL #Lyon #LigueDesChampions #UCL #Fonseca
+
+Source : France 24 / Foot Mercato
