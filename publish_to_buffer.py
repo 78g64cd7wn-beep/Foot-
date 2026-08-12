@@ -49,7 +49,6 @@ def graphql(query, variables=None):
         return json.loads(response.read().decode("utf-8"))
 
 
-# --- FIX : "organizations" est un champ de "account", pas une query racine ---
 org_result = graphql("query { account { organizations { id } } }")
 orgs = org_result.get("data", {}).get("account", {}).get("organizations", [])
 if not orgs:
@@ -94,6 +93,7 @@ variables = {
         "channelId": channel_id,
         "schedulingType": "automatic",
         "mode": "addToQueue",
+        "type": "post",
         "assets": [{"image": {"url": image_url}}],
     }
 }
