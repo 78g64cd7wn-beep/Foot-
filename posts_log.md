@@ -94,3 +94,18 @@ Ousmane Diomandé quitte officiellement le Sporting CP pour rejoindre Nottingham
 #Diomandé #NottinghamForest #Mercato #PremierLeague #CôtedIvoire
 
 Source : Maxifoot / Footmercato / The Athletic
+
+
+## 2026-08-12 12:20 UTC
+
+🚨 C'est OFFICIEL ! Geronimo Rulli a quitté l'Olympique de Marseille pour rejoindre Manchester City ce mercredi matin.
+
+L'OM a confirmé la vente du gardien argentin aux Citizens pour un montant d'environ 3,5 millions d'euros. Le portier de 34 ans s'engage avec City jusqu'en 2028 et vient renforcer la concurrence derrière Gianluigi Donnarumma.
+
+Pour Marseille, c'est un dégraissage utile qui libère une belle masse salariale. Le club phocéen lorgnerait déjà le Polonais Marcin Bulka pour lui succéder dans les buts.
+
+Un départ qui fait du bruit au Vélodrome, en plein mercato estival ! 👋🔵⚪
+
+#OM #ManchesterCity #Rulli #Mercato #Ligue1
+
+Source : Manchester City (communiqué officiel) / OneFootball / beIN Sports
