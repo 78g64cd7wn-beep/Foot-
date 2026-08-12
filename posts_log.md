@@ -83,3 +83,14 @@ Alors que Mike Maignan n'a toujours pas repris l'entraînement à Milanello, la 
 #Maignan #ACMilan #Mercato #Ligue1 #SerieA
 
 Source : Foot Mercato / Tuttosport
+
+
+## 2026-08-12 09:44 UTC
+
+🦁 L'Ivoirien s'en va en Premier League !
+
+Ousmane Diomandé quitte officiellement le Sporting CP pour rejoindre Nottingham Forest. Le défenseur central ivoirien de 22 ans s'est engagé pour 4 ans avec les Tricky Trees, contre un chèque de 40 millions d'euros, avec des bonus pouvant porter le total à 45M€. Un transfert XXL pour l'un des meilleurs jeunes défenseurs de Liga Portugal ces dernières saisons. À Forest, il retrouvera son compatriote Ibrahim Sangaré et intégrera la défense à trois d'Oliver Glasner. Une belle carrière qui continue de s'écrire ! 🔴⚫
+
+#Diomandé #NottinghamForest #Mercato #PremierLeague #CôtedIvoire
+
+Source : Maxifoot / Footmercato / The Athletic
