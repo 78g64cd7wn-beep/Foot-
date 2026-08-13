@@ -281,3 +281,14 @@ Le dernier mot appartient désormais à Reijnders lui-même. Son feu vert manque
 #Reijnders #ManCity #SaudiProLeague #AlQadsiah #Mercato
 
 Source : Fabrizio Romano / David Ornstein (The Athletic)
+
+
+## 2026-08-13 19:59 UTC
+
+😬 Coup dur pour les caisses lyonnaises !
+
+Alors que l'Olympique Lyonnais misait sur la vente de Tanner Tessmann pour renflouer ses finances, le milieu américain va finalement rester au club. Écarté de la sélection américaine pour la Coupe du Monde, Tessmann ne suscite aucun contact sérieux sur le marché. L'OL espérait récupérer 10M€ de son transfert… et avait même déjà ciblé son remplaçant. Raté. À 24 ans, l'ancien Venezia dispute cette saison sous les couleurs des Gones. 💸
+
+#OL #Tessmann #MercatoOL #Ligue1 #FootFrançais
+
+Source : foot01.com / livefoot.fr
