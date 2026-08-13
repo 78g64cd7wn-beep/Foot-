@@ -227,3 +227,16 @@ Le PSG conserve sa Supercoupe et lance sa saison 2026-2027 de la plus belle des 
 #PSG #SupercoupeUEFA #Kvaratskhelia #Doué #Allez Paris
 
 Source : Foot Mercato / ESPN / UEFA.com
+
+
+## 2026-08-13 05:51 UTC
+
+🏆 Le choc est imminent !
+
+Dimanche 16 août à 20h45, le Stade Bollaert-Delelis sera en feu. Le RC Lens, vainqueur de la Coupe de France, accueille le PSG, champion de France et double champion d'Europe, pour le Trophée des Champions 2026 ! Une première historique pour les Sang et Or, qui jouent à domicile dans leur propre antre. Lens tentera de briser la série de 4 victoires consécutives du PSG dans cette compétition... et de se venger après deux défaites 2-0 en Ligue 1 la saison passée. Un duel de prestige, un affiche de feu. 🔥
+
+Rdv dimanche sur Ligue 1+ ! Qui remporte le trophée ? 👇
+
+#TrophéeDesChampions #LensPSG #Bollaert #Ligue1 #PSG
+
+Source : Ligue 1 / PSG.fr / Eurosport
