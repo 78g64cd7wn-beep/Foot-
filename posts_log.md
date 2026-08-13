@@ -240,3 +240,18 @@ Rdv dimanche sur Ligue 1+ ! Qui remporte le trophée ? 👇
 #TrophéeDesChampions #LensPSG #Bollaert #Ligue1 #PSG
 
 Source : Ligue 1 / PSG.fr / Eurosport
+
+
+## 2026-08-13 09:47 UTC
+
+🤯 La bombe de la légende !
+
+Dans un entretien exclusif accordé à L'Équipe ce jeudi matin, Michel Platini lève le voile sur un secret bien gardé : le Real Madrid l'avait bel et bien approché pour lui confier son banc d'entraîneur, à l'époque où il dirigeait l'équipe de France comme sélectionneur.
+
+Mais le triple Ballon d'Or a décliné la Casa Blanca. Sa raison ? Le métier d'entraîneur ne l'a jamais attiré, même quand c'est le plus grand club du monde qui frappe à la porte.
+
+Une révélation qui rappelle à quel point Platini aurait pu réécrire l'histoire du football européen... et qui fait rêver rétrospectivement. 👑
+
+#Platini #RealMadrid #Football #EquipeDeFrance #Légende
+
+Source : L'Équipe / MercatoLive
