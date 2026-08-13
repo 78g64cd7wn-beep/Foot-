@@ -255,3 +255,16 @@ Une révélation qui rappelle à quel point Platini aurait pu réécrire l'histo
 #Platini #RealMadrid #Football #EquipeDeFrance #Légende
 
 Source : L'Équipe / MercatoLive
+
+
+## 2026-08-13 12:36 UTC
+
+🚨 ÇA Y EST, C'EST OFFICIEL ! 🇫🇷
+
+La FFF a dévoilé ce jeudi 13 août le staff complet de Zinédine Zidane à la tête de l'Équipe de France. Et la grande surprise du jour, c'est Fabien Barthez qui fait son retour aux Bleus comme entraîneur des gardiens, en succession de Franck Raviot ! À ses côtés, David Bettoni (fidèle adjoint du Real Madrid) et Hamidou Msaidie complètent le duo d'adjoints. Une nouvelle ère qui commence vraiment à prendre forme avant les matchs de Ligue des Nations en septembre.
+
+🙌 L'aventure Zidane démarre pour de vrai !
+
+#EquipeDeFrance #Zidane #Barthez #Bleus #FFF
+
+Source : FFF / Foot Mercato / Goal.com
