@@ -292,3 +292,18 @@ Alors que l'Olympique Lyonnais misait sur la vente de Tanner Tessmann pour renfl
 #OL #Tessmann #MercatoOL #Ligue1 #FootFrançais
 
 Source : foot01.com / livefoot.fr
+
+
+## 2026-08-13 22:25 UTC
+
+💣 Le dossier de l'été est relancé !
+
+Selon Fabrizio Romano, le FC Barcelone a formulé une nouvelle offre verbale de 60 millions d'euros à Manchester City pour s'offrir Rodri, le MVP de la Coupe du Monde 2026. Réponse des Citizens : niet. Le club anglais exige 80 millions d'euros pour lâcher son capitaine.
+
+Pourtant, tout semble réuni côté joueur : Rodri a donné son accord au Barça, convaincu notamment par un appel de Hansi Flick. Un accord entre 60 et 80M€ serait la solution, selon Romano.
+
+Une chose est certaine : le mercato de l'été n'a pas dit son dernier mot. ⏳🔵🔴
+
+#Rodri #Barcelone #ManCity #Mercato #TransferNews
+
+Source : Fabrizio Romano / RMC Sport / BUTFootballClub
