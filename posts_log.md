@@ -268,3 +268,16 @@ La FFF a dévoilé ce jeudi 13 août le staff complet de Zinédine Zidane à la 
 #EquipeDeFrance #Zidane #Barthez #Bleus #FFF
 
 Source : FFF / Foot Mercato / Goal.com
+
+
+## 2026-08-13 16:12 UTC
+
+🚨 COUP DE TONNERRE — Un an seulement après son arrivée à Manchester City, Tijjani Reijnders pourrait déjà plier bagage !
+
+Selon Fabrizio Romano et David Ornstein, Al Qadsiah et les Citizens sont proches d'un accord à 60 millions d'euros. Le milieu néerlandais, recruté à l'AC Milan l'été dernier, n'entre plus dans les plans d'Enzo Maresca. Nottingham Forest et Galatasaray attendaient en coulisses, mais c'est finalement la Saudi Pro League qui se profile.
+
+Le dernier mot appartient désormais à Reijnders lui-même. Son feu vert manque encore pour finaliser l'opération. 🔥
+
+#Reijnders #ManCity #SaudiProLeague #AlQadsiah #Mercato
+
+Source : Fabrizio Romano / David Ornstein (The Athletic)
