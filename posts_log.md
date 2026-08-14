@@ -320,3 +320,18 @@ Pendant ce temps, Bruno Genesio prépare sa première saison de L1 avec un effec
 #OM #Marseille #Mercato #DNCG #Ligue1
 
 Source : La Provence / Le Phocéen
+
+
+## 2026-08-14 09:42 UTC
+
+🚨 MERCATO OM 🔵⚪️
+
+Après le départ de Geronimo Rulli vers Manchester City, l'Olympique de Marseille a identifié Guillaume Restes comme sa grande priorité dans les cages. Selon Foot Mercato, les dirigeants phocéens ont formulé une première offre verbale au Toulouse FC : un prêt payant avec option d'achat, pour un package total estimé à 10 millions d'euros.
+
+Problème : Toulouse a immédiatement repoussé la proposition, estimant son gardien à 18M€ sur Transfermarkt. Mais l'OM conserve un atout de taille — Restes lui-même donne sa préférence au club phocéen et veut rejoindre la Canebière.
+
+Avec l'ouverture de la Ligue 1 le 23 août, le temps presse. Les négociations devraient s'intensifier dans les prochains jours. 🧤🔥
+
+#OM #Restes #MercatOM #Ligue1 #Toulouse
+
+Source : Foot Mercato / Le Phocéen
