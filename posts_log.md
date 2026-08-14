@@ -383,3 +383,16 @@ Une belle prise pour un OL qui avance intelligemment malgré ses contraintes fin
 #OL #Athekame #Mercato #Ligue1 #ACMilan
 
 Source : Foot Mercato / Lyon Foot
+
+
+## 2026-08-14 21:53 UTC
+
+🚨 LE TRANSFERT QUI FAIT TREMBLER LA LIGUE 1 !
+
+Ayyoub Bouaddi, 18 ans, est sur le point de rejoindre Manchester City. Selon The Athletic et Fabrizio Romano, un accord de principe a été trouvé entre les Citizens et le LOSC autour de 128 millions d'euros, auxquels pourraient s'ajouter 6M€ de bonus. Le joueur a déjà donné son accord personnel au club anglais et préférerait rejoindre City DÈS CET ÉTÉ plutôt qu'attendre 2027. Révélé à la Coupe du monde 2026 avec le Maroc, le milieu de terrain lillois s'apprête à vivre un bond XXL dans sa carrière. Un transfert historique pour Lille.
+
+💰 ~134M€ avec bonus | ✍️ Accord de principe LOSC-City
+
+#Bouaddi #LOSC #ManCity #MercatoFoot #Ligue1
+
+Source : The Athletic / Fabrizio Romano
