@@ -411,3 +411,18 @@ Aubameyang assure qu'il aurait volontiers prolongé son aventure marseillaise, m
 #OM #Aubameyang #Mercato #Ligue1 #OlympiqueDeMarseille
 
 Source : L'Équipe / Foot Mercato / beIN Sports
+
+
+## 2026-08-14 23:51 UTC
+
+🚨 CLASH À L'OM 🚨
+
+Le brassard de capitaine a été arraché à Pierre-Emile Hojbjerg ce vendredi soir, lors du dernier match amical contre l'Atlético de Madrid (défaite 1-2 au Vélodrome). Sanction directe de la direction après son refus de rejoindre Newcastle, un transfert qui aurait rapporté une manne financière cruciale au club.
+
+Mais c'est surtout la réaction de Bruno Genesio qui a tout fait exploser : « C'est une décision qui m'a été dictée par la direction du club. Si je veux être franc, c'est pas une décision que je partage. » 💣
+
+Timothy Weah hérite du brassard. L'OM entre dans sa saison sur un énorme courant d'air interne… À une semaine du coup d'envoi de la Ligue 1 !
+
+#OM #Hojbjerg #Genesio #Marseille #Ligue1
+
+Source : But! Football Club / Footmercato / Maxifoot
