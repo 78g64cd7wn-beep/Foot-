@@ -346,3 +346,16 @@ L'arrière latéral anglais est arrivé en Italie ce vendredi matin pour passer 
 #Inter #Spence #Transfert #SerieA #Mercato
 
 Source : Goal.com / ESPN / Fabrizio Romano
+
+
+## 2026-08-14 15:38 UTC
+
+💣 BARCOLA - LIVERPOOL, LE FEUILLETON S'EMBALLE !
+
+Dans la nuit du 13 au 14 août, Liverpool a relevé son offre orale à 125 M€ pour s'offrir Bradley Barcola. Insuffisant pour le PSG, qui exige toujours 170 M€ pour lâcher son ailier. De son côté, le joueur aurait déjà trouvé un accord contractuel avec les Reds jusqu'en 2032. Le mercato le plus chaud de l'été parisien n'a pas encore dit son dernier mot ⚡️
+
+Le feuilleton de l'été continue... 🔴⚽️
+
+#Barcola #PSG #Liverpool #Mercato #Ligue1
+
+Source : Foot01 / MercatoLive
