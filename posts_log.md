@@ -335,3 +335,14 @@ Avec l'ouverture de la Ligue 1 le 23 août, le temps presse. Les négociations d
 #OM #Restes #MercatOM #Ligue1 #Toulouse
 
 Source : Foot Mercato / Le Phocéen
+
+
+## 2026-08-14 12:29 UTC
+
+🔵⚫ TRANSFERT — Djed Spence débarque à Milan !
+
+L'arrière latéral anglais est arrivé en Italie ce vendredi matin pour passer sa visite médicale avec l'Inter Milan. Un accord total a été trouvé entre les Nerazzurri et Tottenham pour un transfert estimé à 35 M€. Révélation du Mondial 2026 avec l'Angleterre, Spence signe pour 5 ans et devient le remplaçant officiel de Dumfries, parti au Real Madrid cet été. Un recrutement de prestige pour l'Inter de Chivu !
+
+#Inter #Spence #Transfert #SerieA #Mercato
+
+Source : Goal.com / ESPN / Fabrizio Romano
