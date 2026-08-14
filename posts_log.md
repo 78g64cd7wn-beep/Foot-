@@ -359,3 +359,14 @@ Le feuilleton de l'été continue... 🔴⚽️
 #Barcola #PSG #Liverpool #Mercato #Ligue1
 
 Source : Foot01 / MercatoLive
+
+
+## 2026-08-14 18:36 UTC
+
+💥 COUP DE TONNERRE À MARSEILLE !
+
+Alors que tout semblait bouclé, Pierre-Emile Hojbjerg a dit NON à Newcastle ! Le capitaine de l'OM a refusé lundi un contrat de 3 saisons proposé par les Magpies, qui s'étaient pourtant alignés sur ses émoluments actuels. Un accord financier entre les deux clubs était acté autour de 15 M€, mais c'est bien le joueur qui a tout fait capoter. Un sacré coup dur pour l'OM, qui espérait boucler rapidement cette vente pour avancer sur d'autres dossiers estivaux. Le feuilleton est loin d'être terminé…
+
+#OM #Hojbjerg #MercatoOM #Ligue1 #Newcastle
+
+Source : L'Équipe / MercatoLive
