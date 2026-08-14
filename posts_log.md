@@ -396,3 +396,18 @@ Ayyoub Bouaddi, 18 ans, est sur le point de rejoindre Manchester City. Selon The
 #Bouaddi #LOSC #ManCity #MercatoFoot #Ligue1
 
 Source : The Athletic / Fabrizio Romano
+
+
+## 2026-08-14 22:54 UTC
+
+💣 AUBA SORT DU SILENCE
+
+Pierré-Emerick Aubameyang a décidé de parler. Dans un entretien accordé à L'Équipe ce vendredi, l'attaquant gabonais de 37 ans — parti cet été au Deportivo La Corogne pour seulement 1,5M€ — a levé le voile sur les coulisses de son départ forcé de l'Olympique de Marseille.
+
+« Ce n'était pas un environnement sain et stable. Au vu de la situation, le club a décidé que je devais partir. Et je n'allais pas aller contre la volonté du club. » Une phrase qui en dit long sur le climat interne à l'OM la saison dernière.
+
+Aubameyang assure qu'il aurait volontiers prolongé son aventure marseillaise, malgré une année marquée par les blessures de son coéquipier Gouiri, les changements dans le staff et l'échec en Ligue des Champions. Un témoignage qui risque de faire des remous sur la Canebière. 🔥
+
+#OM #Aubameyang #Mercato #Ligue1 #OlympiqueDeMarseille
+
+Source : L'Équipe / Foot Mercato / beIN Sports
