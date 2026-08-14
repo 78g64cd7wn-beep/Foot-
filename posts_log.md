@@ -307,3 +307,16 @@ Une chose est certaine : le mercato de l'été n'a pas dit son dernier mot. ⏳�
 #Rodri #Barcelone #ManCity #Mercato #TransferNews
 
 Source : Fabrizio Romano / RMC Sport / BUTFootballClub
+
+
+## 2026-08-14 05:18 UTC
+
+🚨 Cinq départs, zéro recrue. Voilà le bilan choc de l'OM en ce mercato estival 2026.
+
+Malgré les ventes de Greenwood, Aubameyang, Traoré, Medina et Rulli, la DNCG n'a toujours pas accordé son feu vert au club phocéen pour recruter. En cause : une masse salariale encore trop lourde, qui doit impérativement passer sous les 100M€. Les dirigeants doivent encore vendre, et c'est Nayef Aguerd (vers la Real Sociedad) qui pourrait être la prochaine victime du dégraissage.
+
+Pendant ce temps, Bruno Genesio prépare sa première saison de L1 avec un effectif en chantier... à une semaine du coup d'envoi du championnat ! 😬
+
+#OM #Marseille #Mercato #DNCG #Ligue1
+
+Source : La Provence / Le Phocéen
