@@ -478,3 +478,18 @@ Figure majeure de la défense des Spurs — notamment MVP de la finale de Ligue 
 #Romero #AtleticoMadrid #Tottenham #Mercato #PremierLeague
 
 Source : Maxifoot / Sky Sports / L'Équipe
+
+
+## 2026-08-15 09:53 UTC
+
+🚨 OFFICIEL | Lucas Gourna-Douath rejoint la Premier League !
+
+Formé à Saint-Étienne, le milieu français de 23 ans quitte définitivement le RB Salzbourg pour s'engager quatre saisons avec Hull City, fraîchement promu dans l'élite anglaise. Un transfert acté ce samedi matin, confirmé par les deux clubs.
+
+Passé par la Roma et Le Havre en prêt, Gourna-Douath retrouve enfin une stabilité. Avec 17 matchs de Ligue des Champions dans les jambes, le natif de Villeneuve-Saint-Georges a les épaules pour relever le défi de la Premier League. 🏴󠁧󠁢󠁥󠁮󠁧󠁿
+
+La nouvelle vie commence maintenant. 🔥
+
+#GournaDouath #HullCity #PremierLeague #Mercato #FootballFrançais
+
+Source : Foot Mercato / OneFootball / Yorkshire Post
