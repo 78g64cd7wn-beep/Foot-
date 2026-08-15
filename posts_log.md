@@ -439,3 +439,16 @@ Source : But! Football Club / Footmercato / Maxifoot
 #Thauvin #RCLens #EquipeDeFrance #Zidane #TrophéeDesChampions
 
 Source : Foot Mercato / Le10Sport / Orange Sport
+
+
+## 2026-08-15 05:01 UTC
+
+🚨 Ça s'accélère au PSG ! 
+
+Mika Godts est arrivé à Paris ce samedi matin pour passer sa visite médicale. Le club parisien s'active en urgence pour enregistrer l'ailier belge auprès de la LFP avant ce soir — avec un seul objectif : le rendre disponible dès dimanche pour le Trophée des Champions face à Lens à Bollaert. 
+
+Accord verbal à 55M€ avec l'Ajax, contrat de 5 ans jusqu'en 2031 : le dossier est bouclé. Il ne manque plus que le tampon officiel. Godts débarque avec du rythme dans les jambes (4 matchs joués avec l'Ajax cet été) et Luis Enrique pourrait déjà compter sur lui. Une arrivée en fanfare ! 🔥
+
+#PSG #Godts #MercatoPSG #TrophéeDesChampions #Ligue1
+
+Source : Foot Mercato / Paris Team
