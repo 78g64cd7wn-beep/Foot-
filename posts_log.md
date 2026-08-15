@@ -493,3 +493,16 @@ La nouvelle vie commence maintenant. 🔥
 #GournaDouath #HullCity #PremierLeague #Mercato #FootballFrançais
 
 Source : Foot Mercato / OneFootball / Yorkshire Post
+
+
+## 2026-08-15 10:50 UTC
+
+🚨 C'EST OFFICIEL ! Lucas Gourna-Douath quitte Salzbourg pour Hull City !
+
+Formé à l'AS Saint-Étienne, le milieu défensif franco-centrafricain de 23 ans s'engage pour 4 saisons avec le promu anglais pour environ 4 millions d'euros. Un beau come-back après ses prêts à la Roma et au Havre, où il avait retrouvé des couleurs en Ligue 1 la saison passée.
+
+À lui de saisir sa chance dans le championnat le plus relevé du monde ! 💪🏴󠁧󠁢󠁥󠁮󠁧󠁿
+
+#GournaDouath #HullCity #PremierLeague #MercatoFoot #Ligue1
+
+Source : Foot Mercato / Yahoo Sports
