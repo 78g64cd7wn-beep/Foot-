@@ -426,3 +426,16 @@ Timothy Weah hérite du brassard. L'OM entre dans sa saison sur un énorme coura
 #OM #Hojbjerg #Genesio #Marseille #Ligue1
 
 Source : But! Football Club / Footmercato / Maxifoot
+
+
+## 2026-08-15 03:04 UTC
+
+🩸💛 Le nouveau capitaine des Sang et Or a pris la parole !
+
+À la veille du Trophée des Champions face au PSG, Florian Thauvin a envoyé un message fort à Zinédine Zidane. Le champion du monde 2018, nommé capitaine du RC Lens cet été, a affiché ses ambitions en Bleu sans détour : "J'ai démontré l'année dernière que je pouvais être un candidat, donc on ne va pas se priver."
+
+À 33 ans, auteur de 11 buts et 6 passes décisives la saison passée, Thauvin ne lâche rien. La porte Zidane est grande ouverte… à lui de frapper fort dès dimanche soir à Bollaert ! 🔥
+
+#Thauvin #RCLens #EquipeDeFrance #Zidane #TrophéeDesChampions
+
+Source : Foot Mercato / Le10Sport / Orange Sport
