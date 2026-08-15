@@ -463,3 +463,18 @@ Après deux saisons et 48 buts sous le maillot phocéen, l'ailier anglais de 24 
 #Greenwood #OM #Fenerbahce #Mercato #Ligue1
 
 Source : Le Phocéen / Orange Sports
+
+
+## 2026-08-15 09:00 UTC
+
+💥 OFFICIEL — Cuti Romero rejoint l'Atlético de Madrid !
+
+Après cinq saisons à Tottenham, le défenseur central argentin et champion du monde 2022 s'est engagé ce samedi avec les Colchoneros de Diego Simeone jusqu'en juin 2031. Le deal est estimé à 40 M€ (bonus compris), avec une clause de 15% à la revente conservée par les Spurs.
+
+Figure majeure de la défense des Spurs — notamment MVP de la finale de Ligue Europa 2025 face à Manchester United — Romero avait fait savoir son désir de partir en fin de saison. L'Atlético, admirateur de longue date, a finalement raflé la mise face à l'Inter Milan et Arsenal.
+
+🔴⚪ Un renfort de poids pour Simeone avant la reprise de Liga !
+
+#Romero #AtleticoMadrid #Tottenham #Mercato #PremierLeague
+
+Source : Maxifoot / Sky Sports / L'Équipe
