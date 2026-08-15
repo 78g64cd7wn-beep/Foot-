@@ -452,3 +452,14 @@ Accord verbal à 55M€ avec l'Ajax, contrat de 5 ans jusqu'en 2031 : le dossier
 #PSG #Godts #MercatoPSG #TrophéeDesChampions #Ligue1
 
 Source : Foot Mercato / Paris Team
+
+
+## 2026-08-15 07:20 UTC
+
+🚨 C'EST OFFICIEL ! Mason Greenwood quitte l'Olympique de Marseille et rejoint Fenerbahçe !
+
+Après deux saisons et 48 buts sous le maillot phocéen, l'ailier anglais de 24 ans s'engage pour 4 ans avec le géant stambouliote. Le transfert est fixé à 39 millions d'euros, versés en trois tranches à l'OM. Un départ XXL pour celui qui s'était imposé comme l'un des meilleurs joueurs de Ligue 1. Le Vélodrome perd son serial buteur... Istanbul l'accueille à bras ouverts. 💙💛
+
+#Greenwood #OM #Fenerbahce #Mercato #Ligue1
+
+Source : Le Phocéen / Orange Sports
